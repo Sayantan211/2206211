@@ -58,7 +58,9 @@ The model is applied to a dataset for linear regression, and visualizations of t
 ## Project Structure
 
 ~ `linearX.csv`: Dataset for the independent variable `X` (features).
+
 ~ `linearY.csv`: Dataset for the dependent variable `Y` (target).
+
 ~ `2206211.py`: Python script implementing linear regression with different gradient descent techniques.
 
 ## Process
@@ -104,7 +106,6 @@ These advantages are
   - Better Convergence Behavior:
     Averaging the cost also ensures that the cost function behaves similarly during training, allowing the gradient descent to converge more smoothly. 
     This makes it easier to determine the optimal learning rate, as the fluctuations in the cost function are less dependent on the number of samples.
-
 
 
    - Answer to Question 5 :
