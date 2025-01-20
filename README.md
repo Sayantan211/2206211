@@ -106,6 +106,7 @@ These advantages are
     This makes it easier to determine the optimal learning rate, as the fluctuations in the cost function are less dependent on the number of samples.
 
 
+
    - Answer to Question 5 :
 
   - OBSERVATIONS :
